@@ -8,6 +8,10 @@
     font-family:regular;
     src: url(Oswald-VariableFont_wght.ttf);
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     background-color: lightgrey;
     margin: 0px;
