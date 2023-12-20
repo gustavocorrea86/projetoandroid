@@ -64,6 +64,9 @@ main > h1{
     color: #123A08;
     font-size: 25px;
 }
+main p {
+    text-align: justify;
+}
 .id1{
     padding-left: 15px;
     padding-right: 15px;
@@ -103,6 +106,7 @@ main > h1{
     font-family: 'droid';
     font-size: 18px;
     margin-left: 5px;
+    margin-top: 20px;
 }
 section{
     border-radius: 10px 10px 10px 10px;
@@ -189,4 +193,12 @@ ul{
 }
 #ink::after{
     content:'✯';
+}
+footer{
+    background-color: #063d1e;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+
 }
