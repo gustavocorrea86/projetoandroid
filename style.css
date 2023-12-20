@@ -117,7 +117,6 @@ section{
     height: 100%;
 }
 #h3s{ 
-    border-radius: 10px 10px 0px 0px;
     margin-bottom: 1px; 
 }
 section > p{
@@ -171,7 +170,8 @@ ul{
     list-style-type:'\2714\0020\0020';
     columns: 2;
     list-style-position: section;
-    font-size: 20px;
+    font-size: 15px;
+    padding-left: 40px;
 }
 #ultp{
     text-indent: 10px;
