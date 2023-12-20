@@ -23,7 +23,10 @@ header > h1{
     padding-top: 40px;
     color: white;
     text-align: center;
-   
+}
+header > p{
+    text-align: center;
+    color: white;
 }
 nav{
     width: 350px;
