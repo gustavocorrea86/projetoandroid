@@ -20,23 +20,26 @@ header{
     background: linear-gradient(to top,#123A08, #18A333, #37CC40 );
     min-height: 150px;
     padding-top: 40px;
-    
 }
 header > h1{
-    color: rgb(12, 8, 8);
+    color: white;
     text-align: center;
     font-family: regular;
+    font-weight: normal;
+    font-size: 40px;
+
 }
 header > p {
     text-align: center;
     color: white;
+    font-size: 20px;
+    margin-top:20px;
 }
 nav{
     padding: 10px;
     text-shadow: 0px 7px 7px rgba(0, 0, 0, 0.418);
     padding-top: 60px;
 }
-    
 nav > a {
     color: aliceblue;
     padding-left: 10px;
@@ -58,14 +61,13 @@ main{
 }       
 main > h1{
     margin-left: 10px;
-    margin-top: 4px;
-    padding-top: 12px;
-    font-family: 'droid', Courier, monospace;
-    color: #123A08;
+    font-family: 'droid';
+    color: #063d1e;
     font-size: 25px;
 }
 main p {
     text-align: justify;
+    line-height: 40px;
 }
 .id1{
     padding-left: 15px;
@@ -107,6 +109,7 @@ main p {
     font-size: 18px;
     margin-left: 5px;
     margin-top: 20px;
+    padding-left: 10px;
 }
 section{
     border-radius: 10px 10px 10px 10px;
@@ -132,6 +135,7 @@ main img{
     background:linear-gradient(to right,  #37CC40, white);
     text-decoration: none;
     color: #123A08;
+    padding-left: 5px;
 }
 #bugdroid{
     width: 50%;
@@ -169,6 +173,7 @@ ul{
     list-style-position: section;
     font-size: 15px;
     padding-left: 40px;
+    margin-right: -50px;
 }
 #ultp{
     text-indent: 10px;
