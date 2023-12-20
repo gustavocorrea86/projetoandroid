@@ -19,8 +19,7 @@ body{
 header{
     background: linear-gradient(to top,#123A08, #18A333, #37CC40 );
     padding-top: 40px;
-    min-width: 100%;
-    max-width: 100%;
+   
 
 }
 header > h1{
