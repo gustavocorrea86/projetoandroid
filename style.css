@@ -15,8 +15,8 @@ body{
 header{
     background: linear-gradient(to top,#123A08, #18A333, #37CC40 );
     font-family: regular;
-    height: 240px;
-    width: 100%;
+    min-height: 160px;
+    width: auto;
 }
 header > h1{
     margin-top: 0px;
