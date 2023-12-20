@@ -15,15 +15,14 @@
 body{
     background-color: lightgrey;
     font-family: regular;
-    
 }
 header{
     background: linear-gradient(to top,#123A08, #18A333, #37CC40 );
     padding-top: 40px;
-   
+    width: 100%;
 }
 header > h1{
-    color: black;
+    color: white;
     text-align: center;
     font-family: regular;
 }
@@ -52,8 +51,6 @@ main{
     background-color: white;
     min-width: 300px;
     max-width: 1000px;
-    margin-left: 10%;
-    margin-right: 10%;
     margin-bottom: 30px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.425);
     padding: 10px;
