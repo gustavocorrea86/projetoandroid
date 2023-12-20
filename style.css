@@ -113,7 +113,7 @@ main p {
     padding-left: 10px;
 }
 section{
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 0px 0px 10px 10px;
     box-shadow: 1px 1px 1px 1px;
     background-color: #37CC40;
 }
@@ -174,7 +174,7 @@ ul{
     list-style-position: section;
     font-size: 15px;
     padding-left: 40px;
-    margin-right: -50px;
+    margin-right: -20px;
 }
 #ultp{
     text-indent: 10px;
@@ -206,6 +206,6 @@ footer{
     margin: 10px;
     padding: 5px;
     text-align: center;
-    width: 100%;
-
 }
+    
+
