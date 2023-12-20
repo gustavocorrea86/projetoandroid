@@ -26,7 +26,7 @@ header > h1{
     color: rgb(12, 8, 8);
     text-align: center;
     font-family: regular;
-    padding-top: 40px;
+  
 }
 header > p {
     text-align: center;
@@ -39,7 +39,6 @@ nav{
     
 nav > a {
     color: aliceblue;
-    margin-right: 15px;
     padding-left: 10px;
     text-decoration: none;
 }
